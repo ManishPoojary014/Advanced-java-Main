@@ -35,3 +35,10 @@ ButtonExample.java o/p link : https://github.com/ManishPoojary014/Advanced-java-
 
 ClockButtonExampple.java o/p link : https://github.com/ManishPoojary014/Advanced-java-Main/blob/main/clockbuttonexampleoutput.png
 
+JListExample.java o/p Link : https://github.com/ManishPoojary014/Advanced-java-Main/blob/main/JListExampleoutput.png
+
+TabbedPaneExample.java o/p link : https://github.com/ManishPoojary014/Advanced-java-Main/blob/main/TabbedpanelExampleoutput.png
+
+CountryCapitaljlist.java o/p link : https://github.com/ManishPoojary014/Advanced-java-Main/blob/main/CountryCapitalJlisoutput.png
+
+TabbedPaneColours.java o/p link : https://github.com/ManishPoojary014/Advanced-java-Main/blob/main/TabbedPaneColorsoutput.png
