@@ -26,3 +26,5 @@ p10.java o.p link : https://github.com/ManishPoojary014/Advanced-java-Main/blob/
 StringHandlingDemo.java o/p link :  https://github.com/ManishPoojary014/Advanced-java-Main/blob/main/StringHandlingDemooutput1.png and https://github.com/ManishPoojary014/Advanced-java-Main/blob/main/StringHandlingDemooutput2.png
 
 performanceTest.java o/p link : https://github.com/ManishPoojary014/Advanced-java-Main/blob/main/performancetestoutput.png
+
+StringBilding.java o/p link : https://github.com/ManishPoojary014/Advanced-java-Main/blob/main/stringbuildingfunction1output.png and https://github.com/ManishPoojary014/Advanced-java-Main/blob/main/stringbuildingfunction2output.png
